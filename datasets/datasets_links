@@ -1,0 +1,14 @@
+The following links is the link to the dataset involved in the experimental paper. 
+The original dataset can be downloaded through the link.
+AG_NEWs: https: "train": "https://raw.githubusercontent.com/mhjabreel/CharCnn_Keras/master/data/ag_news_csv/train.csv",
+                "test": "https://raw.githubusercontent.com/mhjabreel/CharCnn_Keras/master/data/ag_news_csv/test.csv",
+Yelp Polarity: https://drive.google.com/uc?export=download&id=0Bz8a_Dbh9QhbNUpYQ2N3SGlFaDg
+Yelp Full: https://drive.google.com/uc?export=download&id=0Bz8a_Dbh9QhbZlU4dXhHTFhZQU0
+Yahoo! Answers: https://drive.google.com/uc?export=download&id=0Bz8a_Dbh9Qhbd2JNdDBsQUdocVU
+DBPedia: https://drive.google.com/uc?export=download&id=0Bz8a_Dbh9QhbQ2Vic1kxMmZZQ1k
+hotel review: "Link": https://pan.baidu.com/share/init?surl=oObY4A_Ovo1CY00UrgbBKg,
+              "Key": kth7
+Weibo review: https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/weibo_senti_100k/intro.ipynb
+IMDB movie reviews: http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+
+
