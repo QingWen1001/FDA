@@ -7,7 +7,8 @@ Yelp Full: https://drive.google.com/uc?export=download&id=0Bz8a_Dbh9QhbZlU4dXhHT
 Yahoo! Answers: https://drive.google.com/uc?export=download&id=0Bz8a_Dbh9Qhbd2JNdDBsQUdocVU
 DBPedia: https://drive.google.com/uc?export=download&id=0Bz8a_Dbh9QhbQ2Vic1kxMmZZQ1k
 hotel review: "Link": https://pan.baidu.com/share/init?surl=oObY4A_Ovo1CY00UrgbBKg,
-              "Key": kth7
+              "Key": kth7,
+              "notes":“Balanced and unbalanced datasets are constructed from the original dataset through random sampling.”
 Weibo review: https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/weibo_senti_100k/intro.ipynb
 IMDB movie reviews: http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
 
